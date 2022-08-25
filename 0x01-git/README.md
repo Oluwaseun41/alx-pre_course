@@ -1,1 +1,1 @@
-Note: this is not an empty readme
+Coding is fun
